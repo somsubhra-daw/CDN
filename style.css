@@ -1,3 +1,7 @@
 .col {
-    font color: blue;
+    color: rgb(233, 182, 31);
+}
+
+.fon {
+    font-weight: bold;
 }
